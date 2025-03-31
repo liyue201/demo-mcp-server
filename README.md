@@ -1,1 +1,1 @@
-# demo-mcp-server-
+# demo-mcp-server
